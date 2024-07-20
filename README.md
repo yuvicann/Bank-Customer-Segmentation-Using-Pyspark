@@ -1,5 +1,9 @@
 # Big-Data-Pyspark
 
+https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation
+#/FileStore/tables/bank_transactions.csv
+     
+
 The objective of the assignment is to design and build spark pipeline to enable
 downstream applications to find key insights.
 1) Dataset:
